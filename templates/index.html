@@ -2,36 +2,72 @@
 <html>
 <head>
  <title>Chatbot</title>
- <link rel="stylesheet" href="../templatesstyles.css">
+ <link rel="stylesheet" href=".\css\style.css">
+ <link rel="icon" href="./robot.jpg">
  <style>
-   body {
+    body {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 50vh;
+    font-family: Arial, sans-serif;
     margin: 0;
+    padding: 0;
+    background-image: url("https://i.pinimg.com/originals/39/74/6e/39746eea29ef15a08a05e9365c2d6be4.jpg");
 
    }
- .chat-container {
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.chat-container {
    width: 500px;
    height: 400px;
    overflow-y: scroll;
    margin: 0 auto;
    border: 2px solid #000;
+   border-radius: 5px;
    padding: 10px;
+   margin: 20px auto;
+   margin-bottom: 10px;
    background: navy;
  }
- .user-message {
-   background-color: #ffffff;
+.user-message {
+   background-color: rgb(255, 255, 255);
    padding: 10px;
    margin-bottom: 10px;
+   border: 1px solid #000;
+   margin-top: 10px;
  }
- .bot-message {
-   background-color: #d1d1d1;
+.bot-message {
+   background-color: rgb(0, 235, 235);
    padding: 10px;
    margin-bottom: 10px;
+   margin-top: 10px;
  }
+.button {
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  background-color: #2bd12b;
+  color: #321c3b;
+  font-size: 1rem;
+  text-transform: uppercase;  
+  transition: box-shadow 0.25s ease-in-out;
+  box-shadow: 0px 0px 0 #d8d8d8;
+}
+
+.button:hover {
+  box-shadow: 2px 2px 0 #ffc2c2;
+}
+
+.cajas{
+    border-radius: 5px;
+    width: 300px;
+    font-size: 1rem;
+}
  </style>
 </head>
 <body>
@@ -43,13 +79,14 @@
  {% endfor %}
  </div><br>
  <form method="POST">
- <input type="text" name="user_input" placeholder="Escribe tu mensaje aquí">
- <input type="submit" value="Enviar">
- </form>
+ <input class="cajas" type="text" name="user_input" placeholder="Escribe tu mensaje aquí">&nbsp;
+ <input class="button" type="submit" value="Enviar">
+ </form><br>
  <form action="/ensenar" method="POST">
-   <input type="text" name="nueva_pregunta" placeholder="Ingrese una nueva pregunta">
-   <input type="text" name="nueva_respuesta" placeholder="Ingrese la respuesta">
-   <input type="submit" value="Enseñar al bot">
+   <input class="cajas" type="text" name="nueva_pregunta" placeholder="Ingrese una nueva pregunta">
+   &nbsp;&nbsp;
+   <input class="cajas" type="text" name="nueva_respuesta" placeholder="Ingrese la respuesta">&nbsp;
+   <input class="button" type="submit" value="Enseñar al bot">
  </form>
  
 </body>
@@ -59,4 +96,5 @@
  var chatContainer = document.getElementById('chat-container');
  chatContainer.scrollTop = chatContainer.scrollHeight;
 </script>
+
 
