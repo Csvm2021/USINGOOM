@@ -1,6 +1,5 @@
 import json
 from difflib import get_close_matches
-from tkinter import scrolledtext, messagebox, simpledialog
 from typing import Union
 
 def load_knowledge_base(file_path: str) -> dict:
