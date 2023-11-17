@@ -1,0 +1,336 @@
+{
+  "question": [
+    {
+      "question": "Hola",
+      "answer": "Hola, como estas?"
+    },
+    {
+      "question": "Muy bien y tu?",
+      "answer": "Excelente, en que puedo ayudarte hoy?"
+    },
+    {
+      "question": "Cuantas carreras ofrece CERTUS?",
+      "answer": "CERTUS ofrece 11 carreras profesionales"
+    },
+    {
+      "question": "Quiero saber cuales son las carreras que ofrece CERTUS?",
+      "answer": "Las carreras que CERTUS ofrece son: Administracion de Empresas, Administracion de Negocios Internacionales, Marketing y Gestion de Medios Digitales, Administracion y Gestion Comercial, Administracion y Rescursos Humanos, Contabilidad y Tributacion, Administracion Financiera y Banca Digital, Dise\u00c3\u00b1o y Desarrollo de Software, Administracion de Sistemas, Dise\u00c3\u00b1o Grafico y por ultimo Publicidad"
+    },
+    {
+      "question": "Que carreras ofrecidas por CERTUS estan relacionadas con los negocios?",
+      "answer": "Las carreras relacionadas con los negocios son las siguientes: Administracion de Empresas, Administracion de Negocios Internacionales, Marketing y Gestion de Medios Digitales, Administracion y Gestion Comercial y Administracion y Rescursos Humanos"
+    },
+    {
+      "question": "Que carreras ofrecidas por CERTUS estan relacionadas con las finanzas?",
+      "answer": "Las carreras relacionadas con las finanzas son las siguientes: Contabilidad y Tributacion, Administracion Financiera y Banca Digital"
+    },
+    {
+      "question": "Que carreras ofrecidas por CERTUS estan relacionadas con la tecnologia?",
+      "answer": "Las carreras relacionadas con la tecnologia son las siguientes: Dise\u00c3\u00b1o y Desarrollo de Software, Administracion de Sistemas"
+    },
+    {
+      "question": "Que carreras ofrecidas por CERTUS estan relacionadas con la creatividad?",
+      "answer": "Las carreras relacionadas con la creatividad son las siguientes: Dise\u00c3\u00b1o Grafico y Publicidad"
+    },
+    {
+      "question": "Cuantos a\u00c3\u00b1os dura una carrera en CERTUS?",
+      "answer": "Una carrera en certus dura 3 a\u00c3\u00b1os aproximadamente."
+    },
+    {
+      "question": "Cuantas sedes tiene CERTUS en el Peru?",
+      "answer": "CERTUS actualmente cuenta con 8 sedes en el Peru"
+    },
+    {
+      "question": "Cual es la nota minima aprobatoria en CERTUS?",
+      "answer": "La nota minima aprobatoria en CERTUS es 13"
+    },
+    {
+      "question": "Con qu\u00c3\u00a9 instituciones o universidades tiene convenios de colaboraci\u00c3\u00b3n actualmente?",
+      "answer": "Universidad Santa Mar\u00c3\u00ada, UTP,  Universidad Continental y UPC"
+    },
+    {
+      "question": "Qu\u00c3\u00a9 t\u00c3\u00adtulo otorga Certus?",
+      "answer": "CERTUS OTORGA un t\u00c3\u00adtulo a nombre de la naci\u00c3\u00b3n: Bachiller Tecnico"
+    },
+    {
+      "question": "Que certificaciones puedo obtener en CERTUS?",
+      "answer": "Puedes obtener una certificaci\u00c3\u00b3n modular al t\u00c3\u00a9rmino de cada a\u00c3\u00b1o de estudios."
+    },
+    {
+      "question": "Cu\u00c3\u00a1nto est\u00c3\u00a1 la mensualidad en el Instituto CERTUS? ",
+      "answer": "La primera cuota que se pagara es de S/249; puede variar segun la carrera estudiada o el CICLO en el que se encuentre"
+    },
+    {
+      "question": "Cuanto esta la matricula en el Instituto CERTUS?",
+      "answer": "El monto correspondiente a la matriculo (primer semestre) es de S/200; puede variar dependiendo del paso de los a\u00c3\u00b1os"
+    },
+    {
+      "question": "Cual es la sede principal de CERTUS?",
+      "answer": "La sede principal de CERTUS se encuentra en Lima, Peru"
+    },
+    {
+      "question": "Que tan bueno es el Instituto CERTUS?",
+      "answer": "CERTUS se posicion\u00c3\u00b3 como el Instituto Tecnol\u00c3\u00b3gico Privado de preferencia de estudio por los j\u00c3\u00b3venes encuestados en 2016. Adem\u00c3\u00a1s como uno de los tres mejores institutos de Lima"
+    },
+    {
+      "question": "Cuenta con una red laboral para el estudiante?",
+      "answer": "CERTUS cuenta con una plataforma de Conexion Laboral en la que te asesora en tu b\u00c3\u00basqueda laboral a trav\u00c3\u00a9s de convenios con m\u00c3\u00a1s de 100 empresas a nivel nacional. Ademas realiza distintas actividades para que sus alumnos se relacionen con empleadores de las mejores empresas."
+    },
+    {
+      "question": "Que horarios de estudio ofrece CERTUS?",
+      "answer": "CERTUS ofrece turnos en la ma\u00c3\u00b1ana y en la noche; varian dependiendo de la cantidad de estudiantes por turno, la sede, los cursos y la carrera elegida"
+    },
+    {
+      "question": "Cu\u00c3\u00a1l es el m\u00c3\u00a9todo de ense\u00c3\u00b1anza?",
+      "answer": "El m\u00c3\u00a9todo de ense\u00c3\u00b1anza est\u00c3\u00a1 enfocado en la ABP, Aprendizaje Basado en Proyectos"
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 significan las siglas CERTUS?",
+      "answer": "El significado de CERTUS en latin es: Decidido, resuelto, seguro"
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 tipo de instituto es certus?",
+      "answer": "Instituto Tecnol\u00c3\u00b3gico Privado"
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 plataforma usa certus?",
+      "answer": "CERTUS pone a disposicion Class Run, que es una plataforma educativa para qu\u00c3\u00a9 los estudiantes sumaen conocimientos en su aprendizaje."
+    },
+    {
+      "question": "Cu\u00c3\u00a1nto gana un egresado de CERTUS aproximadamente?",
+      "answer": "Un egresado de CERTUS puede ganar aproximadamente S/2,156 al mes; esto varia segun la carrera estudiada y el puesto de trabajo"
+    },
+    {
+      "question": "Que se necesita para titular se en CERTUS?",
+      "answer": "Para tramitar/sacar tu titulo Tecnico en CERTUS necesitas: Elaborar el TAP, aprobar la sustentacion ante un jurado elegido por la institucion, tener un certificado que respalde tu nivel de ingles (minimo nivel Intermedio - B1) y haber aprobado los cursos de experiencias formativas (1 por cada a\u00c3\u00b1o de estudio)"
+    },
+    {
+      "question": "CERTUS ofrece cursos de ingles?",
+      "answer": "Si, CERTUS ofrece cursos de ingles con su respectivo certificado de estudios a nombre de la institucion."
+    },
+    {
+      "question": "Cuanto duran los cursos de Ingles?",
+      "answer": "Cada curso tiene una duracion de 4 meses"
+    },
+    {
+      "question": "Que niveles de aprendizaje de Ingles me ofrece?",
+      "answer": "Ofrece 5 niveles de aprendizaje: Basico (A1), Pre Intermedio (A2), Intermedio (B1), Intermedio Alto (B2) y Avanzado (C1)"
+    },
+    {
+      "question": "Cuales son los horarios para los cursos de ingles?",
+      "answer": "CERTUS ofrece turnos en la ma\u00c3\u00b1ana, tarde y noche; varian dependiendo de la cantidad de estudiantes por turno"
+    },
+    {
+      "question": "Cual es la modalidad de ense\u00c3\u00b1anza en CERTUS?",
+      "answer": "Ofrece la modalidad presencial, semipresencial y virtual"
+    },
+    {
+      "question": "Cual es la modalidad de ense\u00c3\u00b1anza en CERTUS para los cursos de ingles?",
+      "answer": "La unica modalidad disponible para los cursos de ingles es: Virtual"
+    },
+    {
+      "question": "Cuales son los requisitos para los cursos de ingles?",
+      "answer": "Los requisitos son: tener de 16 a\u00c3\u00b1os a m\u00c3\u00a1s, contar con PC, Laptop o Smartphone, Aud\u00c3\u00adfonos e Internet para los cursos."
+    },
+    {
+      "question": "\u00c2\u00bfEl instituto CERTUS est\u00c3\u00a1 licenciado por MINEDU? ",
+      "answer": "S\u00c3\u00ad, el instituto CERTUS cuenta con el licenciamiento institucional por el MINEDU"
+    },
+    {
+      "question": "Que servicios oferce sertus para la insercion en el campo laboral?",
+      "answer": "Ofrece los servicios: 'Potente bolse de trabajo', 'Programa de practicas y pasantias', 'Dr. CV', 'Asesorias de empleabilidad'"
+    },
+    {
+      "question": "Sobre la carrera de Administracion de Empresas, que certificaciones me ofrece CERTUS?",
+      "answer": "Mientras estudias la carrera podras obtener las siguientes certificaciones: An\u00c3\u00a1lisis de Procesos Empresariales, Gesti\u00c3\u00b3n de Recursos Empresariales y Gesti\u00c3\u00b3n Estrat\u00c3\u00a9gica de Negocios"
+    },
+    {
+      "question": "Sobre la carrera de Administracion de Negocios Internacionales, que certificaciones me ofrece CERTUS?",
+      "answer": "Mientras estudias la carrera podras obtener las siguientes certificaciones: Operatividad de Comercio Exterior, Gesti\u00c3\u00b3n y An\u00c3\u00a1lisis de Comercio Exterior y Gestor de Operaciones de Comercio Exterior"
+    },
+    {
+      "question": "Sobre la carrera de Marketing y Gestion de Medios Digitales, que certificaciones me ofrece CERTUS?",
+      "answer": "Mientras estudias la carrera podras obtener las siguientes certificaciones: An\u00c3\u00a1lisis de Mercado, Desarrollo de Productos y Servicios y Gesti\u00c3\u00b3n Estrat\u00c3\u00a9gica de Marketing y digitalizaci\u00c3\u00b3n"
+    },
+    {
+      "question": "Sobre la carrera de Administracion y Gestion Comercial, que certificaciones me ofrece CERTUS?",
+      "answer": "Mientras estudias la carrera podras obtener las siguientes certificaciones: Estrategias de Ventas y Fidelizaci\u00c3\u00b3n,Gesti\u00c3\u00b3n de Equipos para la Eficiencia Comercial y Comercializaci\u00c3\u00b3n de Productos"
+    },
+    {
+      "question": "Sobre la carrera de Administracion y Recursso Humanos, que certificaciones me ofrece CERTUS?",
+      "answer": "Mientras estudias la carrera podras obtener las siguientes certificaciones: An\u00c3\u00a1lisis de Procesos Empresariales, Gesti\u00c3\u00b3n de Recursos Empresariales y Gesti\u00c3\u00b3n Estrat\u00c3\u00a9gica de Negocios"
+    },
+    {
+      "question": "Sobre la carrera de Contabilidad y Tributacion, que certificaciones me ofrece CERTUS?",
+      "answer": "Mientras estudias la carrera podras obtener las siguientes certificaciones: Soporte Operativo de Procesos Contables, Procesos Contables y Tributarios y An\u00c3\u00a1lisis de Procesos Contables"
+    },
+    {
+      "question": "Sobre la carrera de Administracion Financiera y Banca Digital, que certificaciones me ofrece CERTUS?",
+      "answer": "Mientras estudias la carrera podras obtener las siguientes certificaciones: Comercializaci\u00c3\u00b3n de Productos y Servicios Financieros, An\u00c3\u00a1lisis de Negocios Bancarios y Financieros y Administraci\u00c3\u00b3n Estrat\u00c3\u00a9gica de Unidades de Negocio"
+    },
+    {
+      "question": "Sobre la carrera de Dise\u00c3\u00b1o y Desarrollo de Software, que certificaciones me ofrece CERTUS?",
+      "answer": "Mientras estudias la carrera podras obtener las siguientes certificaciones: Desarrollo de Software, Pruebas de Implementaci\u00c3\u00b3n de Software y Dise\u00c3\u00b1o de Software"
+    },
+    {
+      "question": "Sobre la carrera de Administracion de Sistemas, que certificaciones me ofrece CERTUS?",
+      "answer": "Mientras estudias la carrera podras obtener las siguientes certificaciones: Desarrollo y Soporte de Sistemas, Pruebas de Implementaci\u00c3\u00b3n de Sistemas y Gesti\u00c3\u00b3n de Plataformas y Servicios de Sistemas"
+    },
+    {
+      "question": "Sobre la carrera de Dise\u00c3\u00b1o Grafico, que certificaciones me ofrece CERTUS?",
+      "answer": "Mientras estudias la carrera podras obtener las siguientes certificaciones: Desarrollo de soluciones de dise\u00c3\u00b1o, Dise\u00c3\u00b1o de proyectos de marca y Dise\u00c3\u00b1o de soluciones orientadas al usuario"
+    },
+    {
+      "question": "Sobre la carrera de Publicidad, que certificaciones me ofrece CERTUS?",
+      "answer": "Mientras estudias la carrera podras obtener las siguientes certificaciones: Desarrollo de conceptos publicitarios, Producci\u00c3\u00b3n para medios publicitarios y Estrategia publicitaria"
+    },
+    {
+      "question": "Cuenta con excursiones extracurriculares?",
+      "answer": "No, por el momento CERTUS no ofrece a sus estudiantes excursiones extracurriculares"
+    },
+    {
+      "question": "Qu\u00c3\u00a9 actividades extracurriculares puedo inscribirme en Certus?",
+      "answer": "Puedes inscribirte en actividades deportivas, arte, cultura, voluntariado, talleres, entre otros."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1ntas unidades did\u00c3\u00a1cticas conforman cada ciclo en Certus?",
+      "answer": "Cada ciclo en Certus est\u00c3\u00a1 conformada por 4 unidades did\u00c3\u00a1cticas."
+    },
+    {
+      "question": "Qu\u00c3\u00a9 hace CERTUS en las diferentes festividades durante el a\u00c3\u00b1o?",
+      "answer": "CERTUS realiza eventos variados a lo largo del a\u00c3\u00b1o y dependiendo de la 'festividad', en los que realiza diferente actividades para el entretenimiento de los miembros de la institucion"
+    },
+    {
+      "question": "CERTUS cuenta con alguna biblioteca digital?",
+      "answer": "Si, CERTUS cuenta con una biblioteca digital llamada Biblioteca Virtual Pearson, que ayudar\u00c3\u00a1 a que m\u00c3\u00a1s estudiantes puedan reforzar sus conocimientos, gracias a la amplia variedad de libros que ofrece la editorial Pearson."
+    },
+    {
+      "question": "Se puede desaprobar por inasistencia?",
+      "answer": "S\u00c3\u00ad, en CERTUS se cuenta el DPI (Desaprobar por Inasistencia), d\u00c3\u00b3nde se cuantifican las faltas y se contrasta con el porcentaje m\u00c3\u00adnimo de asistencia que es el 70%, superado este l\u00c3\u00admite, el estudiante desaprueba."
+    },
+    {
+      "question": "Existen cursos pre requisitos en CERTUS?",
+      "answer": "S\u00c3\u00ad, en todas las carreras hay cursos secuenciales, los cuales siguen el orden para su apertura."
+    },
+    {
+      "question": "Qu\u00c3\u00a9 recursos de apoyo acad\u00c3\u00a9mico ofrece CERTUS? ",
+      "answer": "Ofrece tutor\u00c3\u00adas, servicios de asesoramiento acad\u00c3\u00a9mico y recursos en l\u00c3\u00adnea"
+    },
+    {
+      "question": "CERTUS ofrece asistencia financiera o becas?",
+      "answer": "CERTUS ofrece opciones de asistencia financiera y becas para estudiantes elegibles."
+    },
+    {
+      "question": "Qu\u00c3\u00a9 se necesita para matricularse en CERTUS?",
+      "answer": "Los \u00c3\u00banicos requisitos son:  culminar el colegio  y el certificado de estudios. Luego algunos documentos de admisi\u00c3\u00b3n como copia de DNI y formulario de matr\u00c3\u00adcula."
+    },
+    {
+      "question": "Donde queda la sede de CERTUS en Arequipa?",
+      "answer": "La sede de CERTUS en Arequipa se encuentra ubicada en Av. los Incas Lote 1, Arequipa, Per\u00c3\u00ba"
+    },
+    {
+      "question": "Cuales son los horarios de atencion en las sedes?",
+      "answer": "Los horarios de atencion en cada una de las sedes es de lunes a s\u00c3\u00a1bado de 9:00 a.m. a 6:00 p.m."
+    },
+    {
+      "question": "Donde queda la sede de CERTUS en Ate, Lima?",
+      "answer": "La sede de CERTUS en Ate se encuentra ubicada en Av. Nicol\u00c3\u00a1s Ayll\u00c3\u00b3n N\u00c2\u00b0 6420, Lima, Peru"
+    },
+    {
+      "question": "Donde queda la sede de CERTUS en el Callao, Lima?",
+      "answer": "La sede de CERTUS en el Callao se encuentra ubicada en Av. Argentina 2430, Lima, Peru"
+    },
+    {
+      "question": "Donde queda la sede de CERTUS en Chiclayo?",
+      "answer": "La sede de CERTUS en Chiclayo se encuentra ubicada en Calle Manuel Arteaga N\u00c2\u00b0 540 - Urb. Los Parques - Chiclayo, Peru"
+    },
+    {
+      "question": "Donde queda la sede Norte de CERTUS?",
+      "answer": "La sede Norte de CERTUS se encuentra ubicada en Av. Industrial N\u00c2\u00b0 3733 - Independencia, Lima, Peru"
+    },
+    {
+      "question": "Donde queda la sede principal de CERTUS?",
+      "answer": "La sede principal de CERTUS se encuentra ubicada en Av. Santiago de Surco N\u00c2\u00b0 4717 - Surco, Lima, Peru"
+    },
+    {
+      "question": "Donde queda la sede de CERTUS en San Juan de Lurigancho, Lima?",
+      "answer": "La sede de CERTUS en San Juan de Lurigancho se encuentra ubicada en Av. Pir\u00c3\u00a1mide del Sol N\u00c2\u00b0 810, Lima, Peru"
+    },
+    {
+      "question": "Donde queda la sede de CERTUS en Villa El Salvador, Lima?",
+      "answer": "La sede de CERTUS en Villa El Salvador  se encuentra ubicada en Av Pachacutec 403, Villa EL Salvador, Lima, Peru"
+    },
+    {
+      "question": "Qu\u00c3\u00a9 diferencia a Certus de otras instituciones educativas en Per\u00c3\u00ba?",
+      "answer": "CERTUS se destaca por su enfoque en programas t\u00c3\u00a9cnicos y profesionales que preparan a los estudiantes para el mundo laboral."
+    },
+    {
+      "question": "Con qu\u00c3\u00a9 empresas tiene asociaciones Certus?",
+      "answer": "Certus esta asociado con Tottus, Maestro, Ripley, Saga Falabella, entre otras empresas"
+    },
+    {
+      "question": "Cuales son las sedes que tiene CERTUS?",
+      "answer": "Las sedes de CERTUS son: Sede Arequipa, Sede Ate, Sede Callao, Sede Chiclayo, Sede Norte, Sede Principal (Surco), Sede San Juan de Lurigancho y  Sede Villa El Salvador"
+    },
+    {
+      "question": "Cual es el numero de contacto de CERTUS?",
+      "answer": "El numero de contacto de CERTUS es: (054) 202460"
+    },
+    {
+      "question": "CERTUS cuenta con la opcion de especializacion?",
+      "answer": "Si, CERTUS ofrece esta opcion en el caso de que quieras ampliar tu formaci\u00c3\u00b3n despu\u00c3\u00a9s de egresar, con Certus puedes seguir una segunda titulaci\u00c3\u00b3n que te permita acercarte m\u00c3\u00a1s a tus metas profesionales gracias a los convenios con diversas universidades"
+    },
+    {
+      "question": "C\u00c3\u00b3mo puedo contactar a un asesor de Certus?",
+      "answer": "Puede contactar a un asesor a trav\u00c3\u00a9s de su sitio web, redes sociales o visitando las oficinas de la instituci\u00c3\u00b3n."
+    },
+    {
+      "question": "Tiene biblioteca fisica?",
+      "answer": "Si, cada sede cuenta con su biblioteca fisica; aunque es limitada por ello recomiento revisar la biblioteca digital."
+    },
+    {
+      "question": "Como son los recursos tecnologicos?",
+      "answer": "CERTUS ofrece recursos tecnologicos de aprendizaje para los estudiantes, como equipos de computo, pizarras inteligentes, entre otros."
+    },
+    {
+      "question": "Cual es la mision de Certus como institucion educativa?",
+      "answer": "La mision de Certus es brindar educacion de calidad que prepare a los estudiantes para el mundo laboral."
+    },
+    {
+      "question": "\u00c2\u00bfCual es la visi\u00c3\u00b3n de CERTUS como institucion educativa?",
+      "answer": "La vision de CERTUS es ser la comunidad educativa reconocida por la calidad de sus egresados gracias a un modelo academico de vanguardia."
+    },
+    {
+      "question": "Los estudiantes de CERTUS cuentan con seguro contra accidentes?",
+      "answer": "Si, todos los estudiantes matriculados cuentan con un seguro contra accidentes DENTRO de la instituci\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfCuanto espacio de almacenamiento tendr\u00c3\u00a9 en mi correo Certus / Drive?",
+      "answer": "El estudiante de CERTUS cuenta con 3gb de almacenamiento en Google con todos sus servicios"
+    },
+    {
+      "question": "Existen carreras para personas que trabajan?",
+      "answer": "Si, CERTUS tiene la modalidad  de 'CARRERAS PARA GENTE QUE TRABAJA', opcion que permite a los estudiantes que trabajan acoplar sus horarios."
+    },
+    {
+      "question": "jaja",
+      "answer": "jaja"
+    },
+    {
+      "question": "kkk",
+      "answer": "kkkk"
+    },
+    {
+      "question": "hellos",
+      "answer": "q fue"
+    },
+    {
+      "question": "adad",
+      "answer": "adad"
+    },
+    {
+      "question": "uuu",
+      "answer": "uuu"
+    }
+  ]
+}
